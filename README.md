@@ -4,3 +4,19 @@ En este caso el ERP Dolibarr se encarga de gestionar la fabricacion de una bolsa
 
 
 ---
+## Modulos Necesarios
+
+- Productos
+
+- MRP
+
+- Comercial
+
+- Facturacion /Pago
+
+- Banco / Dinero
+
+- Herramientas
+
+
+---
